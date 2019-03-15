@@ -1,5 +1,5 @@
 {
-  "name": "@muntianrazvan/postgres-error-codes",
+  "name": "postgres-error-codes",
   "version": "0.0.1",
   "description": "Postgres Error Codes",
   "main": "index.js",
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/muntianrazvan/postgres-error-codes/issues"
   },
-  "homepage": "https://github.com/muntianrazvan/postgres-error-codes#readme"
+  "homepage": "https://github.com/muntianrazvan/postgres-error-codes#readme",
+  "dependencies": {}
 }
