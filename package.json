@@ -1,7 +1,7 @@
 {
-  "name": "postgres-error-codes",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@muntianrazvan/postgres-error-codes",
+  "version": "0.0.1",
+  "description": "Postgres Error Codes",
   "main": "index.js",
   "keywords": [
     "postgres",
