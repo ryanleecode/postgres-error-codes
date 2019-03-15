@@ -1,0 +1,22 @@
+{
+  "name": "postgres-error-codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "postgres",
+    "nodejs",
+    "error",
+    "codes"
+  ],
+  "author": "Razvan Muntian <muntianrazvan@gmail.com> (https://razvan.muntian.ro)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muntianrazvan/postgres-error-codes.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muntianrazvan/postgres-error-codes/issues"
+  },
+  "homepage": "https://github.com/muntianrazvan/postgres-error-codes#readme"
+}
