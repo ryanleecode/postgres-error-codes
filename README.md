@@ -38,4 +38,4 @@ async function createUserMethod(req, res, next) {
 ```
 
 ## Related
-- [PostgreSQL Error Codes Documentation]((https://www.postgresql.org/docs/9.2/errcodes-appendix.html))
+- [PostgreSQL Error Codes Documentation](https://www.postgresql.org/docs/9.2/errcodes-appendix.html)
