@@ -4,7 +4,7 @@ Postgres error codes mapping for NodeJS.
 
 ## Install
 ```
-npm install postgres-error-codes
+npm i @fiveem/postgres-error-codes
 ```
 
 ## Usage
