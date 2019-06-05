@@ -1,6 +1,6 @@
 {
   "name": "@fiveem/postgres-error-codes",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Postgres Error Codes",
   "main": "index.js",
   "keywords": [
