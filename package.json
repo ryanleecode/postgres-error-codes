@@ -1,6 +1,6 @@
 {
-  "name": "postgres-error-codes",
-  "version": "0.0.3",
+  "name": "@fiveem/postgres-error-codes",
+  "version": "0.0.4",
   "description": "Postgres Error Codes",
   "main": "index.js",
   "keywords": [
@@ -12,12 +12,12 @@
   "author": "Razvan Muntian <muntianrazvan@gmail.com> (https://razvan.muntian.ro)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muntianrazvan/postgres-error-codes.git"
+    "url": "git+https://github.com/fiveem/postgres-error-codes.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muntianrazvan/postgres-error-codes/issues"
+    "url": "https://github.com/fiveem/postgres-error-codes/issues"
   },
-  "homepage": "https://github.com/muntianrazvan/postgres-error-codes#readme",
+  "homepage": "https://github.com/fiveem/postgres-error-codes#readme",
   "dependencies": {}
 }
