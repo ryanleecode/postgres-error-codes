@@ -1,0 +1,39 @@
+env:
+  browser: true
+  es6: true
+extends:
+  [
+    "plugin:@typescript-eslint/recommended",
+    "prettier/@typescript-eslint",
+    "plugin:prettier/recommended",
+  ]
+plugins: ["@typescript-eslint", "prettier"]
+settings:
+  react:
+    pragma: "React"
+    version: "detect"
+globals:
+  Atomics: readonly
+  SharedArrayBuffer: readonly
+parser: "@typescript-eslint/parser"
+parserOptions:
+  ecmaVersion: 2018
+  sourceType: module
+rules:
+  linebreak-style:
+    - error
+    - unix
+  quotes:
+    - error
+    - single
+    - avoidEscape: true
+      allowTemplateLiterals: true
+  semi:
+    - off
+  "@typescript-eslint/semi":
+    - error
+  object-curly-spacing:
+    - warn
+    - always
+  "@typescript-eslint/explicit-function-return-type":
+    - off
