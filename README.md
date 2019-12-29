@@ -1,5 +1,7 @@
 # Postgres Error Codes
 
+![actions-badge](https://github.com/drdgvhbh/postgres-error-codes/workflows/CI/badge.svg)
+
 Postgres error codes mapping for NodeJS.
 
 ## Install
