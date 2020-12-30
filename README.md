@@ -18,7 +18,7 @@ Each condition from the [PG documentation](https://www.postgresql.org/docs/9.2/e
 `not_null_violation` => `PG_NOT_NULL_VIOLATION`
 
 ```javascript
-const { PG_UNIQUE_VIOLATION, PG_NOT_NULL_VIOLATION } = require('postgres-error-codes')
+const { PG_UNIQUE_VIOLATION, PG_NOT_NULL_VIOLATION } = require('@drdgvhbh/postgres-error-codes')
 
 async function createUserMethod(req, res, next) {
     try {
